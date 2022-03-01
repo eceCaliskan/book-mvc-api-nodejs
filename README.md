@@ -16,4 +16,13 @@ This is a book api I created using MVC model to create the API and communicate w
 <br>
 `npm install`
 <br>
-3- 
+3- Create .env file on the root directory and create a variable called to store Mongoose 
+<br>
+`mongoURI = mangoURIKey??`
+<br>
+4- Start the server
+<br>
+`nodemon app.js`
+<br>
+Now you can operate post, get, put, delete requests
+
