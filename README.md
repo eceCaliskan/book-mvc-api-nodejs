@@ -1,15 +1,16 @@
 # BOOK API
 
-##Description
+## Description
 This is a book api I created using MVC model to create the API and communicate with the database to achieve the required operations. 
 
-##Technologies
+## Technologies
 - Javascript
 - Node.js
 - Postman
 - Mongodb
 
-##How To Install
+## How To Install
 1- Clone the repository
+<br>
 2- Install node modules
 `npm install`
